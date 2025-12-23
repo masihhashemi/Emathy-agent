@@ -1,0 +1,7 @@
+{
+  "name": "Empathy Agent - Deep Research Interviewer",
+  "description": "An AI-powered user research agent that conducts adaptive voice interviews based on deep context to generate Empathy Canvas reports.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
